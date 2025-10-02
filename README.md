@@ -1,6 +1,6 @@
 # DevOps Intern Final Assessment
 
-**Name:** Ankuri  
+**Name:** Ankita tapase
 **Date:** 2025-10-02
 
 This repository demonstrates a small, realistic DevOps pipeline using Linux scripting, Docker, GitHub Actions CI, Nomad deployment, and basic monitoring with Grafana Loki (+ Promtail).
